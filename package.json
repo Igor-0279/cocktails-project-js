@@ -1,21 +1,21 @@
 {
-  "name": "TWS-project",
+  "name": "cocktails-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yanachepyk.github.io/TWS-projec",
+  "homepage": "https://Igor-0279.github.io/cocktails-project-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /TWS-project/"
+    "build": "parcel build src/*.html --public-url /cocktails-project-js/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanachepyk/TWS-project.git"
+    "url": "git+https://github.com/Igor-0279/cocktails-project-js.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yanachepyk/TWS-project/issues"
+    "url": "https://github.com/Igor-0279/cocktails-project-js/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
